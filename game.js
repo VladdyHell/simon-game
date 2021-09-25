@@ -49,6 +49,7 @@ function checkAnswer(currentLevel) {
 	}
 }
 
+//Next Sequence
 function nextSequence() {
 	userClickedPattern = [];
 	
